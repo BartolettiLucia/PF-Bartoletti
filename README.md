@@ -7,7 +7,6 @@
 
 ¡Hola y gracias por leerme! Aqui hablaré de mi expreciencia en el curso de Desarrollo Web de CoderHouse. Estoy increiblemente contenta y agradecida por haber tenido esta oportunidad.
 
-En este archivo me propongo contarle mi experiencia y el desarrollo que he experimentado.
 
 
 ## Contenido del Archivo
